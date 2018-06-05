@@ -3,6 +3,10 @@ title: "Lineup Optimizer"
 author: "Jason Lee"
 date: "6/2/2018"
 output: html_document
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 ---
 
 ```{r setup, include=FALSE}
