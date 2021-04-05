@@ -12,7 +12,7 @@ output: html_document
 
 If you are like me and love fantasy football but aren't always positive which lineup is the opitmal lineup to use in a given week - Then this optimizer is for you!
 
-## Updated Python Version included with Notebook
+## Updated Python Version included with Notebook [here](https://github.com/papagorgio23/Python101/blob/master/DFS_Football_Lineup_Optimizer.ipynb)
 
 
 *** 
