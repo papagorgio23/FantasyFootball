@@ -14,6 +14,8 @@ If you are like me and love fantasy football but aren't always positive which li
 
 ## Updated Python Version included with Notebook [here](https://github.com/papagorgio23/Python101/blob/master/DFS_Football_Lineup_Optimizer.ipynb)
 
+A better version will be included in my upcoming Applied Sports Analytics book. Chapter 8.
+
 (add versions to R packages)
 
 *** 
